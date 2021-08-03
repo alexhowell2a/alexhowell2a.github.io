@@ -16,10 +16,6 @@ tags:
   - image
   - phones
 gallery:
-  - url: /assets/images/pixel6-promoimage.jpeg
-    image_path: /assets/images/pixel6-promoimage.jpeg
-    alt: "Pixel 6 & 6 Pro Promo Image"
-    title: "Pixel 6 & 6 Pro Promo Image"
   - url: /assets/images/pixel6/pixel6-allcolors.png
     image_path: /assets/images/pixel6-allcolors.png
     alt: "all colors of the pixel 6 lineup"
@@ -32,10 +28,6 @@ gallery:
     image_path: /assets/images/pixel6/pixel6colors-gif.gif
     alt: "all pixel 6 colors gif"
     title: "All Pixel 6 colors (GIF)"
-  - url: /assets/images/pixel6/Google-Pixel-6-colors.jpg
-    image_path: /assets/images/pixel6/Google-Pixel-6-colors.jpg
-    alt: "pixel 6 colors"
-    title: "Pixel 6 colors"
   - url: /assets/images/pixel6/pixel6pro-colors.jpg
     image_path: /assets/images/pixel6/pixel6pro-colors.jpg
     alt: "pixel 6 pro colors"
