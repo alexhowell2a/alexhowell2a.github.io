@@ -26,8 +26,8 @@ gallery:
     title: "Pixel 6 promotional image 2"
   - url: /assets/images/pixel6/pixel6-tensorteasere.jpg
     image_path: /assets/images/pixel6/mini/6ti-mini.jpg
-    alt: "pixel 6 promo image"
-    title: "Pixel 6 promotional image"
+    alt: "pixel 6 tensor promo image"
+    title: "Pixel 6 Tensor promotional image"
   - url: /assets/images/pixel6/pixel6-allcolors.png
     image_path: /assets/images/pixel6/mini/allcols-mini.png
     alt: "all colors of the pixel 6 lineup"
