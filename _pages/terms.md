@@ -6,7 +6,7 @@ toc: true
 author_profile: true
 ---
 
-## Privacy Policy
+## Privacy Policy Oversimplified
 
 The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
