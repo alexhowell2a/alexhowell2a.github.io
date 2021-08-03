@@ -164,5 +164,6 @@ The back of the phone is made out of glass, and if I'd get this phone, I would c
 
 ## Gallery
 
-
+<figure>
 {% include gallery id="gallery" caption="All Pixel 6 official media." %}
+</figure>
