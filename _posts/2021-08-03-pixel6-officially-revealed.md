@@ -16,8 +16,8 @@ tags:
   - image
   - phones
 gallery:
-  - url: /assets/images/pixel6-promoimage.jpg
-    image_path: /assets/images/pixel6-promoimage.jpg
+  - url: /assets/images/pixel6-promoimage.jpeg
+    image_path: /assets/images/pixel6-promoimage.jpeg
     alt: "Pixel 6 & 6 Pro Promo Image"
     title: "Pixel 6 & 6 Pro Promo Image"
   - url: /assets/images/pixel6/pixel6-allcolors.png
