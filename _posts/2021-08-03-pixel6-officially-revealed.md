@@ -24,7 +24,7 @@ gallery:
     image_path: /assets/images/pixel6/mini/6pi-mini.jpg
     alt: "pixel 6 promo image 2"
     title: "Pixel 6 promotional image 2"
-  - url: /assets/images/pixel6/pixel6-tensorteasere.jpg
+  - url: /assets/images/pixel6/pixel6-tensorteaser.jpg
     image_path: /assets/images/pixel6/mini/6ti-mini.jpg
     alt: "pixel 6 tensor promo image"
     title: "Pixel 6 Tensor promotional image"
@@ -33,7 +33,7 @@ gallery:
     alt: "all colors of the pixel 6 lineup"
     title: "All colors of the Pixel 6 lineup"
   - url: /assets/images/pixel6/pixel6-materialyou.jpg
-    image_path: /assets/images/pixel6-matyou-mini.jpg
+    image_path: /assets/images/pixel6/mini/matyou-mini.jpg
     alt: "pixel 6 material you"
     title: "Pixel 6 Material You Promo Image"
   - url: /assets/images/pixel6/pixel6colors-gif.gif
