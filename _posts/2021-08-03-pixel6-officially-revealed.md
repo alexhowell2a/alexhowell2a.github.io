@@ -16,32 +16,48 @@ tags:
   - image
   - phones
 gallery:
+  - url: /assets/images/pixel6/pixel6pro-horizbanner.jpg
+    image_path: /assets/images/pixel6/mini/6phb-mini.jpg
+    alt: "pixel 6 promo image"
+    title: "Pixel 6 promotional image"
+  - url: /assets/images/pixel6/pixel6-promoimage.jpg
+    image_path: /assets/images/pixel6/mini/6pi-mini.jpg
+    alt: "pixel 6 promo image 2"
+    title: "Pixel 6 promotional image 2"
+  - url: /assets/images/pixel6/pixel6-tensorteasere.jpg
+    image_path: /assets/images/pixel6/mini/6ti-mini.jpg
+    alt: "pixel 6 promo image"
+    title: "Pixel 6 promotional image"
   - url: /assets/images/pixel6/pixel6-allcolors.png
-    image_path: /assets/images/pixel6-allcolors.png
+    image_path: /assets/images/pixel6/mini/allcols-mini.png
     alt: "all colors of the pixel 6 lineup"
     title: "All colors of the Pixel 6 lineup"
   - url: /assets/images/pixel6/pixel6-materialyou.jpg
-    image_path: /assets/images/pixel6-materialyou.jpg
+    image_path: /assets/images/pixel6-matyou-mini.jpg
     alt: "pixel 6 material you"
     title: "Pixel 6 Material You Promo Image"
   - url: /assets/images/pixel6/pixel6colors-gif.gif
     image_path: /assets/images/pixel6/pixel6colors-gif.gif
     alt: "all pixel 6 colors gif"
     title: "All Pixel 6 colors (GIF)"
+  - url: /assets/images/pixel6/pixel6cols.jpg
+    image_path: /assets/images/pixel6/mini/6cols-mini.jpg
+    alt: "pixel 6 colors"
+    title: "Pixel 6 colors"
   - url: /assets/images/pixel6/pixel6pro-colors.jpg
-    image_path: /assets/images/pixel6/pixel6pro-colors.jpg
+    image_path: /assets/images/pixel6/mini/6pcols-mini.jpg
     alt: "pixel 6 pro colors"
     title: "Pixel 6 Pro colors"
   - url: /assets/images/pixel6/pixel6-limegray.png
-    image_path: /assets/images/pixel6/pixel6-limegray.png
+    image_path: /assets/images/pixel6/mini/6lgr-mini.png
     alt: "pixel 6 lime gray"
     title: "Pixel 6 in Lime Gray color variant"
   - url: /assets/images/pixel6/pixel6-bridgewp.png
-    image_path: /assets/images/pixel6/pixel6-bridgewp.png
+    image_path: /assets/images/pixel6/mini/6bwp-mini.png
     alt: "pixel 6 bridge wp"
     title: "Pixel 6 with a bridge wallpaper"
   - url: /assets/images/pixel6/pixel6-calculator.png
-    image_path: /assets/images/pixel6/pixel6-calculator.png
+    image_path: /assets/images/pixel6/mini/6calc-mini.png
     alt: "pixel 6 calculator"
     title: "Pixel 6 with the new Materia You calculator UI"
 ---
