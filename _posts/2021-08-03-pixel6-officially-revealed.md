@@ -26,33 +26,61 @@ Both the Google Pixel 6 and the 6 Pro will be powered by Google's new SOC (Syste
 ### Specifications
 
 #### Pixel 6
+
 **OS** Android 12
+
 **Display** 6.4" Full HD AMOLED
+
 **Refresh rate** 90Hz
+
 **SOC** Google Tensor (Google Silicon 101 / GS101, Codename 'Whitechapel'), 5nm Octa-Core
+
 **RAM** 8GB
+
 **Storage** 128/256GB
+
 **Battery** 4614 mAh
+
 **Rear cameras** 50MP Wide + 12MP Ultra wide up to 4K@60FPS, 1080P@30/60/120/240FPS
+
 **Front camera** 8MP up to 1080P@30FPS
+
 **Main features** Better AI photo processing, better AI speech recognition, better AI captioning, 5G, water and dust resistant, Auto-HDR, Panorama, Video Stabiliziation, unblur photos using AI, under-display fingerprint sensor, fast charging, wireless charging, reverse charging, power delivery 3.0, new camera sensor
+
 **Missing features** 3.5mm audio jack, microSD card slot, 48MP Telephoto (Pixel 6 Pro only)
+
 **Colors** Black, White w/Lime above camera bar, Pale red w/Red above camera bar
+
 **Camera Bar colors** Black
 
+
+
 #### Pixel 6 Pro
+
 **OS** Android 12
+
 **Display** 6.71" Quad HD AMOLED
+
 **Refresh rate** 120Hz
+
 **SOC** Google Tensor (Google Silicon 101 / GS101, Codename 'Whitechapel'), 5nm Octa-Core
+
 **RAM** 12GB
+
 **Storage** 128/256/512GB
+
 **Battery** 5000 mAh
+
 **Rear canmeras** 50MP Wide + 12MP Ultra wide + 48MP Telephoto up to 4K@60FPS, 1080P@30/60/120/240FPS
+
 **Front camera** 12MP up to 1080P@30FPS
+
 **Main features** Better AI photo processing, better AI speech recognition, better AI captioning, 5G, water and dust resistant, Auto-HDR, Panorama, Video Stabiliziation, unblur photos using AI, under-display fingerprint sensor, fast charging, wireless charging, reverse charging, power delivery 3.0, new camera sensor
+
 **Missing features** 3.5mm audio jack, microSD card slot
+
 **Colors** Black, White, Yellow
+
 **Camera Bar colors** Black
 
 ---
@@ -99,7 +127,7 @@ The back of the phone is made out of glass, and if I'd get this phone, I would c
 
 ## Gallery
 
----
+<figure>
 gallery:
   - url: /assets/images/pixel6-promoimage.jpg
     image_path: /assets/images/pixel6-promoimage.jpg
@@ -137,4 +165,4 @@ gallery:
     image_path: /assets/images/pixel6/pixel6-calculator.png
     alt: "pixel 6 calculator"
     title: "Pixel 6 with the new Materia You calculator UI"
----
+</figure>
