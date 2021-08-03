@@ -62,9 +62,9 @@ gallery:
     title: "Pixel 6 with the new Material You calculator UI"
 ---
 
-# Pixel 6 & 6 Pro oficially announced by Google, and they look better than the previous phones
+# Pixel 6 & 6 Pro officially announced by Google, and they look better than the previous phones
 
-After months of waiting for official news from Google on the Pixel 6 lineup, Google broke the silence with some pretty promising words, like the phone's capabilites and specifications, along with a release date: **this fall**.
+After months of waiting for official news from Google on the Pixel 6 line-up, Google broke the silence with some pretty promising words, like the phone's capabilities and specifications, along with a release date: **this fall**.
 
 Both the Google Pixel 6 and the 6 Pro will be powered by Google's new SOC (System-on-Chip), Tensor, which Google claims to be a competitor to the latest chips from Qualcomm, Huawei, Apple and Samsung.
 
@@ -132,9 +132,11 @@ Both the Google Pixel 6 and the 6 Pro will be powered by Google's new SOC (Syste
 
 ## Cameras
 
-Afer such a long time, Google has finally changed their camera sensors. Up until this lineup, Google has used Google Pixel 2's camera sensor on all of their phones - which isn't bad, especially because it also has AI by its side - , but it's certainly a welcome change.
+After such a long time, Google has finally changed their camera sensors. Up until this line-up, Google has used Google Pixel 2’s camera sensor on all of their phones - which isn’t bad, especially because it also has AI by its side, but it’s certainly a welcome change.
 
-Google has shown a few different features they promise to integrate with this new lineup, most notably a new face unblurring feature. They've shown a video with a moving person, whose face was blurry, then they used the integrated AI from the Tensor SoC, which takes multiple photos and analyses them, which will give clarity to the face and remove most of the motion. Keep in mind this was a Google-provided video showing the phone's very best capabilities, therefore the phone may not take such good videos when the consumers get their hands on the phones.
+Google has shown a few different features they promise to integrate with this new line-up, most notably a new face unblurring feature. 
+
+They’ve shown a video with a moving toddler, whose face was pretty blurry. Using their new AI from the TPM module, the phone managed to sharpen the face by taking multiple photos. Keep in mind, this was a Google-provided video showing the phone’s very best capabilities, therefore the phone may not take such good videos when the consumers get their hands on the phones.
 
 ## The new Tensor chip
 
@@ -149,7 +151,7 @@ Google has shown a few different features they promise to integrate with this ne
 
 Google's new SoC is focused mostly on AI, and they claim it was 4 years into production. As I mentioned in the [Camera](#cameras) section, their new TPU (Tensor Processing Unit) module is capable of unblurring faces on videos with a lot of motion, but that's just one of the new AI features. In addition, this new SoC can apply AI and computational photography to video, such as automatically adjusting HDR and the white balance of a video.
 
-It can also use the TPU module to provide better, instantaneos captioning to media being played on the phone, it can let you edit text while using text-to-speech and much, much more.
+It can also use the TPU module to provide better, instantaneous captioning to media being played on the phone, it can let you edit text while using text-to-speech and much, much more.
 
 It is unclear yet how the actual performance of the chip is, so this remains unknown at the time of writing.
 
@@ -159,15 +161,18 @@ The base Pixel 6 comes with a 6.4" Full HD+ AMOLED display with a 90Hz refresh r
 
 ## Battery
 
-The Pixel phones' battery life has never been good, especially when you compare them to Samsung or Apple's flagships, which can last a lot more. With the Pixel 6 lineup, Google promises "all day" endurance, which is a bit dissapointing for some people who aren't accustomed to the battery life of Google phones. The Pro variant comes with 5000 mAh while the base variant comes with 4614 mAh, both will feature faster wireless charging because Google is reportedly developing a better Pixel Stand which will decrease the time needed for the phones to charge wirelessly, and the new phones will feature a new change in the Battery menu, a new setting which helps optimize the battery charing, for example the battery will slowly charge overnight to something like 90%, and close to when the alarm rings, it will charge the phone to 100%, so as to not overcharge and decrease the battery life. Other phones from manufacturers like Sony and Samsung had this option for years, so it's good to see Google adding this feature.
+The Pixel phones’ battery life has never been good, especially when you compare them to Samsung or Apple’s flagships, which can last a lot more. 
+With the Pixel 6 line-up, Google promises “all day” endurance, which is a bit disappointing for some people who aren’t accustomed to the battery life of Google phones. 
+
+The Pro variant comes with 5000 mAh while the base variant comes with 4614 mAh, both will feature faster wireless charging because Google is reportedly developing a better Pixel Stand which will decrease the time needed for the phones to charge wirelessly, and the new phones will feature a new change in the Battery menu, a new setting which helps optimize the battery charging, for example the battery will slowly charge overnight to something like 90%, and close to when the alarm rings, it will charge the phone to 100%, to not overcharge and decrease the battery life. Other phones from manufacturers like Sony and Samsung had this option for years, so it’s good to see Google adding this feature.
 
 ## Pricing
 
-Google says their new lineup will be a "premium-priced product", so the pricing may be somewhere close to their competitors, like the Samsung Galaxy S21 or the iPhone 12 lineups, and it might be possible the Pixel 6 may be priced at $999, similar to the iPhone 12.
+Google says their new line-up will be a "premium-priced product", so the pricing may be somewhere close to their competitors, like the Samsung Galaxy S21 or the iPhone 12 line-ups, and it might be possible the Pixel 6 may be priced at $999, similar to the iPhone 12.
 
 ## My opinion
 
-The new Google Pixel 6 and the Pixel 6 Pro look strikingly similar to Samsung's Galaxy Note lineup, perhaps Google wanted to release the Note 21 we never received this year, due to chip shortages and other issues on Samsung's side. The slightly curved screen on the phone's edges are similar to the older Galaxy S8 and S9 phones, while the glossy aluminium rails on the sides are certainly similar to the Samsung Galaxy Note phones. The selfie camera hole also looks like it's inspired by the Note 10/20's look.
+The new Google Pixel 6 and the Pixel 6 Pro look strikingly similar to Samsung's Galaxy Note lineup, perhaps Google wanted to release the Note 21 we never received this year, due to chip shortages and other issues on Samsung's side. The slightly curved screen on the phone's edges are similar to the older Galaxy S8 and S9 phones, while the glossy aluminum rails on the sides are certainly similar to the Samsung Galaxy Note phones. The selfie camera hole also looks like it's inspired by the Note 10/20's look.
 The back of the phone is made out of glass, and if I'd get this phone, I would certainly put a case on it, mostly to avoid scratches and to have my phone at a normal angle instead of a slightly raised top.
 
 ## Gallery
