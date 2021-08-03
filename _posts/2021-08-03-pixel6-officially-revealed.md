@@ -127,7 +127,7 @@ The back of the phone is made out of glass, and if I'd get this phone, I would c
 
 ## Gallery
 
-<figure>
+```yaml
 gallery:
   - url: /assets/images/pixel6-promoimage.jpg
     image_path: /assets/images/pixel6-promoimage.jpg
@@ -165,4 +165,4 @@ gallery:
     image_path: /assets/images/pixel6/pixel6-calculator.png
     alt: "pixel 6 calculator"
     title: "Pixel 6 with the new Materia You calculator UI"
-</figure>
+```
