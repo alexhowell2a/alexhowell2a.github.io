@@ -6,7 +6,7 @@ main:
     url: /about/
   - title: "Terms & Privacy Policy"
     url: /terms/
-   - title: "Posts"
-     url: /year-archive/
+  - title: "Posts"
+    url: /year-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
