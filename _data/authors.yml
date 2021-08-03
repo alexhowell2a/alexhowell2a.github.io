@@ -1,0 +1,22 @@
+# Authors
+
+Alex Howell:
+  name        : "Alex Howell"
+  bio         : "Game and software developer, avid C++, JS, HTML & CSS user. This website has all of the crazy stuff I can think of."
+  avatar      : "/assets/images/bio-photo.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:alextec70@outlook.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://alexhowell2a.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/realTECPlayz"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/alexhowell2a"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/_tecplayz_/"
