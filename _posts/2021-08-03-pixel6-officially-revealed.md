@@ -62,7 +62,7 @@ gallery:
     title: "Pixel 6 with the new Material You calculator UI"
 ---
 
-# Pixel 6 & 6 Pro officially announced by Google, and they look better than the previous phones
+# Pixel 6 & 6 Pro are official.
 
 After months of waiting for official news from Google on the Pixel 6 line-up, Google broke the silence with some pretty promising words, like the phone's capabilities and specifications, along with a release date: **this fall**.
 
