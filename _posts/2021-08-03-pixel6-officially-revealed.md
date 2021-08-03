@@ -15,6 +15,43 @@ tags:
   - pixel-6
   - image
   - phones
+gallery:
+  - url: /assets/images/pixel6-promoimage.jpg
+    image_path: /assets/images/pixel6-promoimage.jpg
+    alt: "Pixel 6 & 6 Pro Promo Image"
+    title: "Pixel 6 & 6 Pro Promo Image"
+  - url: /assets/images/pixel6/pixel6-allcolors.png
+    image_path: /assets/images/pixel6-allcolors.png
+    alt: "all colors of the pixel 6 lineup"
+    title: "All colors of the Pixel 6 lineup"
+  - url: /assets/images/pixel6/pixel6-materialyou.jpg
+    image_path: /assets/images/pixel6-materialyou.jpg
+    alt: "pixel 6 material you"
+    title: "Pixel 6 Material You Promo Image"
+  - url: /assets/images/pixel6/pixel6colors-gif.gif
+    image_path: /assets/images/pixel6/pixel6colors-gif.gif
+    alt: "all pixel 6 colors gif"
+    title: "All Pixel 6 colors (GIF)"
+  - url: /assets/images/pixel6/Google-Pixel-6-colors.jpg
+    image_path: /assets/images/pixel6/Google-Pixel-6-colors.jpg
+    alt: "pixel 6 colors"
+    title: "Pixel 6 colors"
+  - url: /assets/images/pixel6/pixel6pro-colors.jpg
+    image_path: /assets/images/pixel6/pixel6pro-colors.jpg
+    alt: "pixel 6 pro colors"
+    title: "Pixel 6 Pro colors"
+  - url: /assets/images/pixel6/pixel6-limegray.png
+    image_path: /assets/images/pixel6/pixel6-limegray.png
+    alt: "pixel 6 lime gray"
+    title: "Pixel 6 in Lime Gray color variant"
+  - url: /assets/images/pixel6/pixel6-bridgewp.png
+    image_path: /assets/images/pixel6/pixel6-bridgewp.png
+    alt: "pixel 6 bridge wp"
+    title: "Pixel 6 with a bridge wallpaper"
+  - url: /assets/images/pixel6/pixel6-calculator.png
+    image_path: /assets/images/pixel6/pixel6-calculator.png
+    alt: "pixel 6 calculator"
+    title: "Pixel 6 with the new Materia You calculator UI"
 ---
 
 # Pixel 6 & 6 Pro oficially announced by Google, and they look better than the previous phones
@@ -127,42 +164,7 @@ The back of the phone is made out of glass, and if I'd get this phone, I would c
 
 ## Gallery
 
-```yaml
-gallery:
-  - url: /assets/images/pixel6-promoimage.jpg
-    image_path: /assets/images/pixel6-promoimage.jpg
-    alt: "Pixel 6 & 6 Pro Promo Image"
-    title: "Pixel 6 & 6 Pro Promo Image"
-  - url: /assets/images/pixel6/pixel6-allcolors.png
-    image_path: /assets/images/pixel6-allcolors.png
-    alt: "all colors of the pixel 6 lineup"
-    title: "All colors of the Pixel 6 lineup"
-  - url: /assets/images/pixel6/pixel6-materialyou.jpg
-    image_path: /assets/images/pixel6-materialyou.jpg
-    alt: "pixel 6 material you"
-    title: "Pixel 6 Material You Promo Image"
-  - url: /assets/images/pixel6/pixel6colors-gif.gif
-    image_path: /assets/images/pixel6/pixel6colors-gif.gif
-    alt: "all pixel 6 colors gif"
-    title: "All Pixel 6 colors (GIF)"
-  - url: /assets/images/pixel6/Google-Pixel-6-colors.jpg
-    image_path: /assets/images/pixel6/Google-Pixel-6-colors.jpg
-    alt: "pixel 6 colors"
-    title: "Pixel 6 colors"
-  - url: /assets/images/pixel6/pixel6pro-colors.jpg
-    image_path: /assets/images/pixel6/pixel6pro-colors.jpg
-    alt: "pixel 6 pro colors"
-    title: "Pixel 6 Pro colors"
-  - url: /assets/images/pixel6/pixel6-limegray.png
-    image_path: /assets/images/pixel6/pixel6-limegray.png
-    alt: "pixel 6 lime gray"
-    title: "Pixel 6 in Lime Gray color variant"
-  - url: /assets/images/pixel6/pixel6-bridgewp.png
-    image_path: /assets/images/pixel6/pixel6-bridgewp.png
-    alt: "pixel 6 bridge wp"
-    title: "Pixel 6 with a bridge wallpaper"
-  - url: /assets/images/pixel6/pixel6-calculator.png
-    image_path: /assets/images/pixel6/pixel6-calculator.png
-    alt: "pixel 6 calculator"
-    title: "Pixel 6 with the new Materia You calculator UI"
+
+```liquid
+{% raw %}{% include gallery id="gallery" caption="All official Pixel 6 media." %}{% endraw %}
 ```
