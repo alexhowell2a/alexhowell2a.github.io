@@ -59,7 +59,7 @@ gallery:
   - url: /assets/images/pixel6/pixel6-calculator.png
     image_path: /assets/images/pixel6/mini/6calc-mini.png
     alt: "pixel 6 calculator"
-    title: "Pixel 6 with the new Materia You calculator UI"
+    title: "Pixel 6 with the new Material You calculator UI"
 ---
 
 # Pixel 6 & 6 Pro oficially announced by Google, and they look better than the previous phones
