@@ -17,7 +17,7 @@ tags:
   - phones
 gallery:
   - url: /assets/images/pixel6/pixel6pro-horizbanner.jpg
-    image_path: /assets/images/pixel6/mini/6phb-mini.jpg
+    image_path: /assets/images/pixel6/mini/6phb-mini.png
     alt: "pixel 6 promo image"
     title: "Pixel 6 promotional image"
   - url: /assets/images/pixel6/pixel6-promoimage.jpg
