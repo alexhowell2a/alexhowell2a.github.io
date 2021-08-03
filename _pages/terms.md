@@ -232,3 +232,52 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, You can contact us:
 
 - By email: alextec70@outlook.com
+
+## Website Terms and Conditions of Use
+
+### 1. Terms
+
+By accessing this Website, accessible from https://alexhowell2a.github.io, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law.
+
+### 2. Use License
+
+Permission is granted to temporarily download one copy of the materials on https://alexhowell2a.github.io's Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+
+- modify or copy the materials;
+
+- use the materials for any commercial purpose or for any public display;
+
+- attempt to reverse engineer any software contained on https://alexhowell2a.github.io's Website;
+
+- remove any copyright or other proprietary notations from the materials; or transferring the materials to another person or "mirror" the materials on any other server.
+
+
+This will let https://alexhowell2a.github.io to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format. These Terms of Service has been created with the help of the Terms Of Service Generator.
+
+### 3. Disclaimer
+
+All the materials on https://alexhowell2a.github.io’s Website are provided "as is". https://alexhowell2a.github.io makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, https://alexhowell2a.github.io does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website.
+
+### 4. Limitations
+
+https://alexhowell2a.github.io or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on https://alexhowell2a.github.io’s Website, even if https://alexhowell2a.github.io or an authorize representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.
+
+### 5. Revisions and Errata
+
+The materials appearing on https://alexhowell2a.github.io’s Website may include technical, typographical, or photographic errors. https://alexhowell2a.github.io will not promise that any of the materials in this Website are accurate, complete, or current. https://alexhowell2a.github.io may change the materials contained on its Website at any time without notice. https://alexhowell2a.github.io does not make any commitment to update the materials.
+
+### 6. Links
+
+https://alexhowell2a.github.io has not reviewed all of the sites linked to its Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by https://alexhowell2a.github.io of the site. The use of any linked website is at the user’s own risk.
+
+### 7. Site Terms of Use Modifications
+
+https://alexhowell2a.github.io may revise these Terms of Use for its Website at any time without prior notice. By using this Website, you are agreeing to be bound by the current version of these Terms and Conditions of Use.
+
+### 8. Your Privacy
+
+Please read our [Privacy Policy](#privacy-policy).
+
+### 9. Governing Law
+
+Any claim related to https://alexhowell2a.github.io's Website shall be governed by the laws of ro without regards to its conflict of law provisions.
