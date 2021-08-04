@@ -1,14 +1,14 @@
 ---
+permalink: /home/
 title: "Home"
 type: pages
+date: 2021-08-04T13:24:19+04:00
 layout: splash
 author_profile: false
-permalink: /home/
 read_time: false
 comments: false
 share: false
 toc: false
-date: 2021-08-03
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
