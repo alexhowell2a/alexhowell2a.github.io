@@ -1,49 +1,57 @@
 ---
-title: "Welcome"
+title: "Splash Page"
 layout: splash
 permalink: /splash-page/
-date: 2021-08-04T13:48:15-04:00
+date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/2021-splash.png
+  overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
     - label: "Learn More"
-      url: "/about/"
-  caption: "Photo credit: **Alex Howell**"
-excerpt: "Read more about who I am, and take a look at the roadmap for 2022."
+      url: "/terms/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
-  - excerpt: 'Welcome to my website. I post here news about anything I find interesting in tech and gaming, including my own stuff, ideas and small talk.'
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: assets/images/2021-games.png
-    image_caption: "Image courtesy of [Vanta Interactive](https://vanta-interactive.github.io/)"
-    alt: "Gravortal outdated image from 2020"
-    title: "Games"
-    excerpt: "Read more about my games and future projects. Coming soon."
-  - image_path: /assets/images/2021-scaleniun.png
-    alt: "Scaleniun Promo Image"
-    title: "Scaleniun"
-    excerpt: "Read more about the Scaleniun design system and the Kalliope app coming in 2022"
-    url: "https://alexhowell2a.github.io/scaleniun/"
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/2021-archviz.png
-    title: "Archviz"
-    excerpt: "I will also start creating some archviz content in late 2022. Stay tuned."
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/2021-08-03-pixel6-announcement.png
-    alt: "Google Pixel 6 and 6 Pro Announced"
-    title: "Read the latest article - Google Pixel 6 & 6 Pro Announced"
-    excerpt: 'Google broke the silence with an impressive design, impressive specs and a vague release date.'
-    url: "https://alexhowell2a.github.io/google/phones/pixel%206/pixel6-officially-revealed/"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/2021-08-allarticles-splash.png
-    alt: "Latest article released and upcoming video on YouTube"
-    title: "Browse all articles"
-    excerpt: 'Find something you're interested in and give it a read!'
-    url: "https://alexhowell2a.github.io/year-archive/"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -55,3 +63,5 @@ feature_row3:
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
