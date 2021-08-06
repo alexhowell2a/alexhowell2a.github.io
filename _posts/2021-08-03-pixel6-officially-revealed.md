@@ -140,6 +140,9 @@ They’ve shown a video with a moving toddler, whose face was pretty blurry. Usi
 
 ## The new Tensor chip
 
+**Warning Notice:** The new Google Tensor SoC is partly manufactured by Samsung, and considering its current Exynos state, the performance, battery and heating issues, this might not be a good start for the new SoC.
+{: .notice--warning}
+
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/pixel6/pixel6-tensorteaser.jpg' | relative_url }})
 {% endcapture %}
