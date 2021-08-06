@@ -1,5 +1,5 @@
 ---
-title: "Pixel 6 & 6 Pro oficially announced by Google"
+title: "New YouTube gesture feature"
 header:
   image: /assets/images/youtube/ytlogo.png
   caption: "Photo credit: [**YouTube**](https://youtube.com)"
