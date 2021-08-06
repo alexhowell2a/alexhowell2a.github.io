@@ -10,11 +10,15 @@ categories:
   - Google
   - Phones
   - Pixel 6
+  - Android
 tags:
   - google
   - pixel-6
   - image
   - phones
+  - android
+  - google-pixel
+  - pixel-phones
 gallery:
   - url: /assets/images/pixel6/pixel6pro-horizbanner.jpg
     image_path: /assets/images/pixel6/mini/6phb-mini.png
