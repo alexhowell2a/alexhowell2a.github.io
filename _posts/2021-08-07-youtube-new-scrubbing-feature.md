@@ -3,7 +3,7 @@ title: "New YouTube gesture feature, now in testing"
 header:
   image: /assets/images/youtube/ytlogo.png
   caption: "Photo credit: [**YouTube**](https://youtube.com)"
-last_modified_at: 2021-08-03
+last_modified_at: 2021-08-07
 toc: true
 author_profile: true
 categories:
