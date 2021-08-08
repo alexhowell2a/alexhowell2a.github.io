@@ -32,6 +32,9 @@ Terralith adds over **50** new biomes, and modifies most of Minecraft's own biom
 
 # Review
 
+**Warning Notice:** The images on this post are big in size, high quality 2K screenshots (Average of 4-5MB per image). I'd recommend you browse this if you have a lot of data to spare, or you're on a cable plan to avoid any issues. Make sure you have good speeds. If you want to check your speeds, check out [Speedtest.net](https://speedtest.net)
+{: .notice--warning}
+
 I have tested Terralith on Minecraft 1.17.1 with Optifabric (Fabric with a mod that supports Optifine, sort of a Minecraft Forge, but with better performance) and I have to say, from the beginning, this datapack is a game changer.
 
 {% capture fig_img %}
