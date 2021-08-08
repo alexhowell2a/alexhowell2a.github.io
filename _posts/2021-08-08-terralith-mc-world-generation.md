@@ -72,7 +72,7 @@ After a while, I have stumbled upon the place from the image above, and I have c
 
 I swear, this looks fantastic. Combined with the nice SSR (screenspace reflections) and the amazing shadows and light the Complementary Shaders provide, it's a sight to behold.
 
-Moving forward, I find a pond on the island, with small logs and lilypads floating on it.
+Moving forward, I found a pond on the island, with small logs and lilypads floating on it.
 
 {% capture fig_img %}
 ![Foo]({{ 'https://i.ibb.co/X8CXdsn/2021-08-08-15-55-11.png' | relative_url }})
@@ -111,57 +111,127 @@ OK, enough chit-chat and weird silly story, here's more images, and then my fina
 ![Foo]({{ 'https://i.ibb.co/D80LQ3V/2021-08-08-15-59-20.png' | relative_url }})
 {% endcapture %}
 
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>1</figcaption>
+</figure>
+
 {% capture fig_img %}
 ![Foo]({{ 'https://i.ibb.co/DCLFMMs/2021-08-08-16-01-02.png' | relative_url }})
 {% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>2</figcaption>
+</figure>
 
 {% capture fig_img %}
 ![Foo]({{ 'https://i.ibb.co/s6PSQnh/2021-08-08-16-01-26.png' | relative_url }})
 {% endcapture %}
 
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>3</figcaption>
+</figure>
+
 {% capture fig_img %}
 ![Foo]({{ 'https://i.ibb.co/0Dhfc9Q/2021-08-08-16-01-56.png' | relative_url }})
 {% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>4</figcaption>
+</figure>
 
 {% capture fig_img %}
 ![Foo]({{ 'https://i.ibb.co/9TLYGkR/2021-08-08-16-02-13.png' | relative_url }})
 {% endcapture %}
 
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>5</figcaption>
+</figure>
+
 {% capture fig_img %}
 ![Foo]({{ 'https://i.ibb.co/QpkQDjf/2021-08-08-16-03-06.png' | relative_url }})
 {% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>6</figcaption>
+</figure>
 
 {% capture fig_img %}
 ![Foo]({{ 'https://i.ibb.co/nksh9mR/2021-08-08-16-03-45.png' | relative_url }})
 {% endcapture %}
 
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>7</figcaption>
+</figure>
+
 {% capture fig_img %}
 ![Foo]({{ 'https://i.ibb.co/B6tC3vT/2021-08-08-16-03-56.png' | relative_url }})
 {% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>8</figcaption>
+</figure>
 
 {% capture fig_img %}
 ![Foo]({{ 'https://i.ibb.co/8PQ1FbJ/2021-08-08-16-04-42.png' | relative_url }})
 {% endcapture %}
 
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>9</figcaption>
+</figure>
+
 {% capture fig_img %}
 ![Foo]({{ 'https://i.ibb.co/cXn2gNR/2021-08-08-16-05-50.png' | relative_url }})
 {% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>10</figcaption>
+</figure>
 
 {% capture fig_img %}
 ![Foo]({{ 'https://i.ibb.co/1d7nGCD/2021-08-08-16-06-15.png' | relative_url }})
 {% endcapture %}
 
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>11</figcaption>
+</figure>
+
 {% capture fig_img %}
 ![Foo]({{ 'https://i.ibb.co/sHNsbg1/2021-08-08-16-12-10.png' | relative_url }})
 {% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>12</figcaption>
+</figure>
 
 {% capture fig_img %}
 ![Foo]({{ 'https://i.ibb.co/Nmgw2WR/2021-08-08-16-15-04.png' | relative_url }})
 {% endcapture %}
 
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>13</figcaption>
+</figure>
+
 {% capture fig_img %}
 ![Foo]({{ 'https://i.ibb.co/0KGByCx/2021-08-08-16-17-56.png' | relative_url }})
 {% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>14</figcaption>
+</figure>
 
 # Final words on the datapack
 
