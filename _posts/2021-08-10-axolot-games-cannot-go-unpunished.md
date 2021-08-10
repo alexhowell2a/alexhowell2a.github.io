@@ -66,7 +66,7 @@ There is no sense of progression, pretty ironic how they can't make a Survival-o
 
 ## The community
 
-I understand that there's a ton of children who play this game, and that is completely understandable, but more than 3/4 of them have no idea how the life is outside the curtain of lies and promises Axolot Games has made. Some genuinely good, constructive reviews have been hidden by developers during bigger sales so they can make more sales.
+I understand that there's a ton of children who play this game, and that is completely understandable, but more than 3/4 of them have no idea how the life is outside the curtain of lies and promises Axolot Games has made. Some genuinely good, constructive reviews have been hidden by developers during bigger sales, so they can make more sales.
 
 # Shortened version of all of this
 
@@ -94,7 +94,7 @@ I understand that there's a ton of children who play this game, and that is comp
 
 - Early Access after 6 years, game is halfway complete
 
-- $25 price tag, after 6 years with a few sales here and there.
+- $25 price tag, after 6 years, with a few sales here and there.
 
 - Community is filled with children who don't see outside the walls Axolot has created
 
