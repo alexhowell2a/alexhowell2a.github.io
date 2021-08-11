@@ -112,13 +112,10 @@ Galaxy Fold 3 5G, Flip 3 5G, Galaxy Buds 2 & Galaxy Watch 4 series were unveiled
 
 # Prices
 
-Galaxy Fold 3 5G 128GB - 1899 EUR
 
-Galaxy Fold 3 5G 256GB - 1999 EUR
+Galaxy Fold 3 5G 256GB - 1800 EUR
 
-Galaxy Flip 3 5G 128GB - 1099 EUR
-
-Galaxy Flip 3 5G 256GB - 1149 EUR
+Galaxy Flip 3 5G 128GB - 1050 EUR
 
 Galaxy Watch 4 Bluetooth only - 370 USD
 
