@@ -34,6 +34,8 @@ Galaxy Fold 3 5G, Flip 3 5G, Galaxy Buds 2 & Galaxy Watch 4 series were unveiled
 
 **Display** 6.28" Dynamic Super AMOLED 2X
 
+**Secondary display** 7.8" Dynamic Super AMOLED, 120Hz
+
 **Refresh rate** 120Hz, variable refresh rate option
 
 **SOC** Qualcomm Snapdragon 888 (US, South Korea, Hong Kong, Worldwide variants - no Exynos model for this phone) 5nm architecture
