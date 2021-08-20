@@ -148,7 +148,7 @@ footer:
       icon: "fas fa-balance-scale"
       url: "https://alexhowell2a.github.io/terms/"
     - label: "About"
-      icon: "<fas fa-info-circle"
+      icon: "<fas fa-info"
       url: "https://alexhowell2a.github.io/about/"
 
 
