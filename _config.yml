@@ -144,6 +144,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/_tecplayz_/"
+    - label: "ToS and Privacy Policy"
+      icon: "fas fa-balance-scale"
+      url: "https://alexhowell2a.github.io/terms/"
+    - label: "About"
+      icon: "<fas fa-info-circle"
+      url: "https://alexhowell2a.github.io/about/"
 
 
 # Reading Files
