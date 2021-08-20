@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "ToS & Privacy Policy"
-    url: /terms/
+#  - title: "About"
+#    url: /about/
+#  - title: "ToS & Privacy Policy"
+#    url: /terms/
   - title: "Posts"
     url: /year-archive/
   # - title: "Sitemap"
