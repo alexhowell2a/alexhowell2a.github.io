@@ -1,42 +1,25 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-last_modified_at: 2021-08-03
+last_modified_at: 2021-08-20
 toc: true
 author_profile: true
 ---
 
+**Update:** We have changed the Privacy Policy on 20 August 2021, to better protect your privacy and ensure we have no trackers or cookies on the website. Please give them a read if you want to review the changes.
+{: .notice--info}
+
 ## Privacy Policy Oversimplified
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
-
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+This Privacy Policy respects my users' privacy, and does not connect to any known third-party services that may track or serve you cookies or ads.
 
 ### Log Files
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
-
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
-
-All of this information is not linked to anything that is personally identifiable.
+The website stores no log files that could potentially have personal or non-personal information.
 
 ### Cookies and Web Beacons
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
-
+The website collects no cookies, and has no relations with platforms like Google Analytics, Disqus and other such third-parties.
 
 
 ## Legal wording
@@ -89,105 +72,27 @@ For the purposes of this Privacy Policy:
 
 #### Types of Data Collected
 
-##### Personal Data
+##### No data is being collected
 
-While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
-
-- **Usage Data**
-
-##### Usage Data
-
-Usage Data is collected automatically when using the Service.
-
-Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
-
-When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
-
-We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
-
-##### Information from Third-Party Social Media Services
-
-The Company allows You to create an account and log in to use the Service through the following Third-party Social Media Services:
-
-- Google
-- Facebook
-- Twitter
-
-If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name, Your email address, Your activities or Your contact list associated with that account.
-
-You may also have the option of sharing additional information with the Company through Your Third-Party Social Media Service's account. If You choose to provide such information and Personal Data, during registration or otherwise, You are giving the Company permission to use, share, and store it in a manner consistent with this Privacy Policy.
+While using Our Service, We will not collect any Personal Data or Usage Data that belongs to You.
 
 #### Tracking Technologies and Cookies
 
-We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include:
-
-- Cookies or Browser Cookies. A cookie is a small file placed on Your Device. You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service. Unless you have adjusted Your browser setting so that it will refuse Cookies, our Service may use Cookies.
-
-- Web Beacons. Certain sections of our Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity).
-
-Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on Your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close Your web browser.
-
----
-
-We use both Session and Persistent Cookies for the purposes set out below:
-
-**Necessary / Essential Cookies**
-
-Type: *Session Cookies*
-
-Administered by: *Us*
-
-Purpose: *These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.*
-
-**Functionality Cookies**
-
-Type: *Persistent Cookies*
-
-Administered by: *Us*
-
-Purpose: *These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.*
-
-For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy or the Cookies section of our Privacy Policy.
+We do not collect any Cookies and We do not use any Tracking Technologies while You are using our Service.
 
 ---
 
 #### Use of Your Personal Data
 
-The Company may use Personal Data for the following purposes:
-
-- **To provide and maintain our Service,** including to monitor the usage of our Service.
-
-- **To contact You:** To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
-
-- **To manage Your requests:** To attend and manage Your requests to Us.
-
-- **For other purposes:** We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.
-
-We may share Your personal information in the following situations:
-
-- **With Service Providers:** We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.
-
-- **With Your consent:** We may disclose Your personal information for any other purpose with Your consent.
+The Company will not use your Personal Data for any purpose whatsoever.
 
 ### Retention of Your Personal Data
 
-The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+The Company will not retain Your Personal Data, for any purpose whatsoever.
 
-The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
-
-### Transfer of your Personal Data
-
-Your information, including Personal Data, is processed in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
-
-Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
-
-The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
+The Company does not retain any Usage Data, for any purpose whatsoever.
 
 ### Disclosure of Your Personal Data
-
-#### Business Transactions
-
-If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
 #### Law enforcement
 
@@ -209,9 +114,7 @@ The security of Your Personal Data is important to Us, but remember that no meth
 
 ### Children's Privacy
 
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
-
-If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
+Our Service does not collect, nor retain any personally identifiable information from anyone, regardless of age. If You are a parent or guardian and You have any worries or questions related to Your or Your child's security while using our Service, please contact Us.
 
 ### Links to Other Websites
 
@@ -231,7 +134,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-- By email: alextec70@outlook.com
+- By email: alextec70@protonmail.com
 
 ## Website Terms and Conditions of Use
 
