@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "Vanta Interactive"
-    url: https://vanta-interactive.github.io
   - title: "About"
     url: /about/
-  - title: "Terms & Privacy Policy"
+  - title: "ToS & Privacy Policy"
     url: /terms/
   - title: "Posts"
     url: /year-archive/
