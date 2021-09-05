@@ -43,9 +43,9 @@ Other than DOOM and Doom: Eternal (developed by ID Software), their other games 
 
 Bought MAXIS, developer of The Sims franchise, SimCity franchise, shut down the SimCity servers and monetized the hell out of The Sims 3 and The Sims 4 ($860 worth of DLC only in Sims 4 as of September 2021). Involved in predatory microtransaction practices, creates terrible games that look almost the same as the older ones but with a new coat of paint (most notably the FIFA series). Everything they touch turns into shit. Every IP they develop/publish nowadays is just a money grab.
 
-### Deep Silver (Deep Shillver, Deep Shitver, Deep Suckle, Deep Throating Silver) - Metro Exodus, Metro: Last Night, Metro 2033, Metro Redux
+### Deep Silver (Deep Shillver, Deep Shitver, Deep Suckle, Deep Throating Silver) - Saints Row (reboot), Metro Exodus, Metro: Last Night, Metro 2033, Metro Redux
 
-Went bankrupt previously, publishes both PC, Console and Mobile games.
+Went bankrupt previously, publishes both PC, Console and Mobile games. Published Metro Exodus to the Epic Games Store just days before the announced Steam release date. They honored the pre-orders, but still, a totally crapy move. Recently they announced the Saints Row reboot and its release on the EGS. You can literally see the blank space on the banner where the Steam icon would have been. Would not be surprised if this was another decision made very quickly.
 
 ### Epic Games (E-pig Games) - Fortnite, Unreal Tournament (UT4, unfinished), Unreal Tournament 3; Tencent and ultimately the CCP own a large portion of the company
 
@@ -54,8 +54,6 @@ Anti-consumer and anti-developer practices in the Epic Games Store, store lacks 
 Even then, Fortnite is still to be criticized, as Fortnite copied PUBG, and Bluehole dropped their lawsuit against Epic only because Tencent has a finger in the pies of both companies, and now recently shamelessly stole Among Us' impostor game mode concept, without putting even a bit of work to twist it in their own way.
 
 They snatch games from Steam, sometimes even just a few days before their release date (most notable example being Metro Exodus). Their so-called promise to not do it again was an absolute joke, as Anno 1800 was also another EGS exclusive - but don't worry, you could have pre-ordered it on Steam and wait a whole year until you get the game you were promised to get that year on that platform. They have also removed Rocket League from Steam as it's now an exclusive on Epic Games Store on PC, after they acquired Psyonix (developers of Rocket League). Involved into predatory microtransaction practices, absolutely horrendous customer experience and support, anti-developer and anti-consumer game store and game services, they're only staying afloat because of Fortnite and Unreal Engine, killed off a great franchise (Unreal Tournament).
-
-**Reminder: Don't play or download Fortnite, Saints Row (reboot), Rocket League or any Epic Games product outside of Unreal Engine, that still hasn't been tarnished yet by Tim Sweeney and his ghouls. Also pirating any Epic Games exclusive is always morally correct, the developers have cashed in their money so one less person buying their crappy game isn't going to be an issue.**
 
 ### IGN - Known Electronic Arts, Ubisoft, Activision-Blizzard, Doritos, Mountain Dew shill
 
