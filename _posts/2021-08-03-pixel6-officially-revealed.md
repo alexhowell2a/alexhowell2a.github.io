@@ -140,7 +140,7 @@ After such a long time, Google has finally changed their camera sensors. Up unti
 
 Google has shown a few different features they promise to integrate with this new line-up, most notably a new face unblurring feature. 
 
-They’ve shown a video with a moving toddler, whose face was pretty blurry. Using their new AI from the TPM module, the phone managed to sharpen the face by taking multiple photos. Keep in mind, this was a Google-provided video showing the phone’s very best capabilities, therefore the phone may not take such good videos when the consumers get their hands on the phones.
+They’ve shown a video with a moving toddler, whose face was pretty blurry. Using their new AI from the TPU module, the phone managed to sharpen the face by taking multiple photos. Keep in mind, this was a Google-provided video showing the phone’s very best capabilities, therefore the phone may not take such good videos when the consumers get their hands on the phones.
 
 ## The new Tensor chip
 
