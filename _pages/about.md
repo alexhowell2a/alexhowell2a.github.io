@@ -10,6 +10,10 @@ I'm a game and software developer, currently working on projects for Android and
 
 Not only that, but I'm a fan of whatever devices Google, Samsung, Sony, Apple or ZTE create, thankfully I also get the occasion from time to time to test such devices. Check the list below to see what I tested.
 
+**Keep in mind I am biased, like literally everyone else.** I prefer Kaspersky and Bitdefender over every single antivirus solution out there, extremely biased against Epic Games (excludind Unreal Engine, that is excellent for what I need), biased against Electronic Arts, Ubisoft, Activision-Blizzard, Facebook, TikTok, anti-vaxxers, and religion. Expect remarks about these companies and topics if we're talking about them in a post here.
+
+I am trying to be as formal and professional as possible here, but emotions (anger, sadness, indifference) and biases may slip up sometimes. I apologize in advance if that happens.
+
 # Aspirations
 
 - Future lab doctor somewhere in Copenhagen.
