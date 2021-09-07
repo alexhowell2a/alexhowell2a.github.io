@@ -131,6 +131,75 @@ I don't like:
 
 *In case you're asking, no, I will not announce Project Hangar or the unnamed project until it's time. I will not do this crap ever again(GRAV0RTAL cancelled, announced again, cancelled again, slow progress, few lies mixed in for taste). This means for Project Hangar that I will likely announce it only a few short months before its release, by then play-testing, media is done, bug fixes are the highest priority and I'll start being active, releasing info about it.
 
+# Devices I had the opportunity to test out in great detail:
+
+Big flex, I know. The list only includes phones and tablets.
+
+- Unannounced Apple product, Sep 2021 announcement (hint hint :) jk I'm testing it a few days after the announcement )
+- Apple iPhone 12, 12 Max
+- iPhone 11
+- iPhone X | XS | XR
+- iPhone 8
+- iPhone 7
+- iPhone 6 | 6S
+- iPhone 5
+- iPhone 3
+- iPhone
+- Apple iPad 6
+- iPad Air 3
+- iPad Air 2
+- iPad Air 1
+- iPad Pro 5
+- iPad Pro 4
+- iPad Pro 3
+- Samsung Galaxy Fold 3 & Flip 3, Galaxy Watch Series 4
+- Galaxy S21, S21+, S21 Ultra
+- Galaxy Fold 2 & Flip 2
+- Galaxy Fold & Flip
+- Galaxy Note 20 | 20 Ultra
+- Galaxy S20 | S20 Ultra
+- Galaxy Note 10 Plus
+- Galaxy S10 | S10 Plus
+- Galaxy S9
+- Galaxy S8
+- Galaxy S7 | S7 Edge
+- Galaxy S6
+- Galaxy Note 5
+- Galaxy S5
+- Galaxy Note 4
+- Galaxy S4 | S4 Mini
+- Galaxy Note 3
+- Galaxy S3
+- Galaxy S (Galaxy S1)
+- Galaxy A10 (current device, absolute utter horrible shit)
+- Galaxy A10E
+- Galaxy A20
+- Galaxy A52
+- Galaxy A70
+- Galaxy A72
+- Galaxy J3
+- Galaxy J5
+- Galaxy J7
+- Galaxy M10
+- Galaxy xCover 2
+- Samsung Galaxy Tab S6
+- Samsung Galay Tab S4
+- Samsung Galaxy Tab S3
+- Samsung Galaxy Tab S2
+- Samsung Galaxy Tab A7
+- Samsung Galaxy Tab A4
+- Samsung Galaxy Tab 4 (all models - 7", 8" & 10.1")
+- Samsung Galaxy Tab 3 (only SIM model)
+- Samsung Galaxy Tab 2
+- ZTE Axon 30 | 30 Ultra
+- Serioux S716 Tab
+- Google Pixel 5 | 5A
+- Google Piel 4 | 4A
+- Google Pixel 3
+- Google Pixel 2
+- Google Pixel
+- Some old flip-phones from Samsung, Motorola, a symbian touchscreen phone from Samsung (to all of these cannot remember their names at the moment)
+
 # More links about me (Linktree)
 
 Unless you want to browse this list for the link you want to find, I suggest you go to my [linktr.ee](https://linktr.ee/alextecplayz) link and find whatever you need there.
