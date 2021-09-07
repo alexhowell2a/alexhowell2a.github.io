@@ -6,9 +6,9 @@ last_modified_at: 2021-08-03T10:21:16-04:00
 toc: true
 ---
 
-I'm a game and software developer, currently working on projects for Android and Windows, with future plans for Mac, Linux and iOS/iPad. I also like to create music, videos, tech and game reviews, I hoard old and new tech, make weird inventions on both paper and IRL, I browse a lot of reddit, Twitter, Steam, Discord and YouTube, and listen to music on YT Music or Spotify a huge chunk of the day while coding or simply doing nothing. I'm Bi and a Furry.
+I'm a game and software developer, currently working on projects for Android and Windows, with future plans for Mac, Linux and iOS/iPad. I also like to create music, videos, tech and game reviews, I hoard old and new tech, make weird inventions on both paper and IRL, I browse a lot of reddit, Twitter, Steam, Discord and YouTube, and listen to music on YT Music or Spotify a huge chunk of the day while coding or simply doing nothing. Furthermore, I'm Bi and a Furry.
 
-I'm a fan of whatever devices Google, Samsung, Sony, Apple or ZTE create, thankfully I also get the occasion from time to time to test such devices.
+Not only that, but I'm a fan of whatever devices Google, Samsung, Sony, Apple or ZTE create, thankfully I also get the occasion from time to time to test such devices. Check the list below to see what I tested.
 
 # Aspirations
 
@@ -17,25 +17,30 @@ I'm a fan of whatever devices Google, Samsung, Sony, Apple or ZTE create, thankf
 
 # Current projects
 
-Announced/Named:
+Announced/ Named:
 
 - Scalenium (2021-2023ish, 2022 early access, documentation, sample apps and reddit app Kalliope)
 - Kalliope (2021-2023, reddit app for Android, ad-blocking, themes, extra features, uses Scalenium design)
 
-Unnanounced/codenames:
+Unannounced/ Codenames:
 
 - Project Hangar (late 2018-2025ish, Unreal Engine 5 (former UE4), FPS, Action, Steam only)
-- Unnamed project (2019-2030ish, Unreal Engine 5 (former UE4), FPS, Action, Open-World, Singleplayer + 2-4 player Co-Op, multiplatform PC, PlayStation, XBOX)
+- Unnamed project (2019-2030ish, Unreal Engine 5 (former UE4), FPS, Action, Open-World, Single-player + 2-4 player Co-Op, multiplatform PC, PlayStation, XBOX)
 
 Other:
 
-- None that can be named, or that can be typed here
+- One major mod for Minecraft (Unannounced, TBA, TBD, 2018-current)
+- One major mod for Prison Architect (Unannounced, TBA, TBD, 2019-current)
 
-Cancelled/Ceased development/Abandoned:
+Cancelled/ Ceased development/ Abandoned/ On Hold:
 
 - Project C.U.B.E. (2020-mid2021, cancelled, 2.5D, Puzzle, Steam, Android)
 - Frosted Planet (2021-supposed 2022, cancelled, FPS, Semi Open-World, Puzzle, Adventure, Multiplatform PC, PlayStation, XBOX)
 - JumpGame (2019 (or 2018?), abandoned / ceased development, Third person, Semi open-world, Windows)
+- Two mods for Portal 2 - GRAV0RTAL (Source edition) and Portal Stories - New Age
+- One mod for Minecraft (no name)
+- One mod for Scrap Mechanic - Scrap Mechanic Enhanced (not worth the effort, had multiple projects to work on which lead to the cancellation of most of them, could reattempt to do it some day. Do NOT steal my idea, get your own, or think with your brain. Calling it now, it's an On Hold project.)
+- One mod for Minecraft: Bedrock Edition (shader, no name, cancelled)
 
 # Interests
 
@@ -71,7 +76,7 @@ I don't like:
 - Bad companies/corporations/studios/etc. (as listed on a list that can be found on this blog's posts section)
 - Facebook, TikTok (Sadly I'm pretty forced to use both IG and WhatsApp for family and friend-related discussions)
 - Bullshit theories like the Earth is flat, COVID-19 is a hoax, COVID vaccine is bad/made to depopulate (who the heck thinks about these things and thinks "Yeah, that's a believable theory!")
-- Religion (If you belive in religion, power to you, but don't try to indoctrinate me with that stuff, nor should you try to invite me to religion-related things)
+- Religion (If you believe in religion, power to you, but don't try to indoctrinate me with that stuff, nor should you try to invite me to religion-related things)
 - Old or unfunny memes (most notably most boomer FB memes)
 
 # Life roadmap
@@ -85,11 +90,11 @@ I don't like:
 ##### 2016
 
 - First time making a small mod for Minecraft PE
-- First time making a texturepack for Minecraft PE
+- First time making a texture pack for Minecraft PE
 
 ##### 2018
 
-- Better PC (Not actually that good by today's standards. Dell Optiplex with Pentium D, NVIDIA GeForce 6800 Ultra 512MiB, 2GB of (pretty effing corrupt DDR2 RAM)
+- Better PC (Not actually that good by today's standards. Dell OptiPlex with Pentium D, NVIDIA GeForce 6800 Ultra 512 MiB, 2 GB of (pretty effing corrupt DDR2 RAM))
 - Became very good at HTML, CSS, started using UE4
 - JumpGame is developed and released (v.0.1), then subsequently cancelled in favour of GRAV0RTAL
 - GRAV0RTAL is announced, a few devlogs will be released until 2020. Barely any development is made, considering I barely started using Unreal and still need more knowledge to create a project of this scale
@@ -106,12 +111,12 @@ I don't like:
 
 - GRAV0RTAL is back. For realzies this time, I promise (Spoiler, cancelled the same year lmao)
 - 2A Games is renamed to Evo-Catalyst Softworks
-- TheVirus(TM) strikes Romania, antivaxxers are back, woo! (f--k them)
+- TheVirus™ strikes Romania, anti-vaxxers are back, woo! (f--k them)
 - Devlogs 1-2 are released for GRAV0RTAL
 - Released a few soundtracks I sketched for GRAV0RTAL
-- New PC, finally some good effing gaming ensues! (HP Compaq 8200 Elite, Intel Core i7-2600 vPro, now 9 years old, still holds VERY well, 8GB DDR3, AMD 512MB GPU, soon replaced with NVIDIA GeForce GTX 1650
+- New PC, finally some good effing gaming ensues! (HP Compaq 8200 Elite, Intel Core i7-2600 vPro, now 9 years old, still holds VERY well, 8 GB DDR3, AMD 512 MB GPU, soon replaced with NVIDIA GeForce GTX 1650)
 - New PC's PSU has issues and is replaced, thankfully nothing was lost
-- Added an extra 500GB HDD that's possibly been running for 2+ years and shows signs of failure
+- Added an extra 500 GB HDD that's possibly been running for 2+ years and shows signs of failure
 - Evo-Catalyst Studios is renamed to Vanta Interactive (current name)
 - Project C.U.B.E. is announced - no one seems to care anyway - then a few months later gets silently removed and cancelled
 - GRAV0RTAL gets cancelled 5 days before Christmas. Merry Christmas! (or not)
@@ -121,15 +126,15 @@ I don't like:
 
 - This website is made in the summer of 2021
 - I get very addicted to HITMAN 2 and HITMAN III, also to YT Music
-- Start a few modding projects that will not be worked on for quite some time considering it's all hands on deck for Project Hangar
+- Start a few modding projects that will not be worked on for quite some time, considering it's all hands on deck for Project Hangar
 - Scalenium development is started, no big announcement
 - One year of Vanta Interactive not announcing anything, no one seems to care (actually good imo)
-- Frosted Planet has a lot of issues with the artstyle, features, story, models. First I thought I would make it on a fictional planet that was frozen by humans in order to repopulate it, then I want it voxel-styled like ASTRONEER, then I want it NMS-style, then normal high-quality models style, which seemed to work for a while. Story gets written, promptly cancelled for the super secret Project Hangar.
+- Frosted Planet has a lot of issues with the art style, features, story, models. First I thought I would make it on a fictional planet that was frozen by humans in order to repopulate it, then I want it voxel-styled like ASTRONEER, then I want it NMS-style, then normal high-quality models style, which seemed to work for a while. Story gets written, promptly cancelled for the super secret Project Hangar.
 - By this time, Unreal 5 Preview 2 was released, and as of September, I'm now pretty effing good at Unreal (4&5). Not an expert, but not a medium-level developer either. I also shifted every project to Unreal 5 and never looked back.
 - This website gets more articles, content and now, this roadmap. Hi there!
-- TheVirus(TM) Phase 4 (Delta variant) is almost here, woo!
+- TheVirus™ Phase 4 (Delta variant) is almost here, woo!
 
-*In case you're asking, no, I will not announce Project Hangar or the unnamed project until it's time. I will not do this crap ever again(GRAV0RTAL cancelled, announced again, cancelled again, slow progress, few lies mixed in for taste). This means for Project Hangar that I will likely announce it only a few short months before its release, by then play-testing, media is done, bug fixes are the highest priority and I'll start being active, releasing info about it.
+*In case you're asking, no, I will not announce Project Hangar or the unnamed project until it's time. I will not do this crap ever again(GRAV0RTAL cancelled, announced again, cancelled again, slow progress, few lies mixed in for taste). This means for Project Hangar that I will likely announce it only a few short months before its release, by then play-testing, media is done, bug fixes are the highest priority, and I'll start being active, releasing info about it.
 
 # Devices I had the opportunity to test out in great detail:
 
