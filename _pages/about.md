@@ -17,6 +17,9 @@ I am trying to be as formal and professional as possible here, but emotions (ang
 # Aspirations
 
 - Future lab doctor somewhere in Copenhagen.
+
+or
+
 - Big game developer at my own studio along with a long-time friend and co-game developer.
 
 # Current projects
@@ -70,7 +73,7 @@ I like:
 - Space, Astronomy, Galaxies, Planets, etc.
 - Food
 - Music (most notably chill, hip-hop, retro, classical, modern, electronic, reggae, dance, pop)
-- Helping others on subjects like tech support, what antivirus should someone choose (my recommendation: Kaspersky Security Cloud - Free/paid / Bitdefender Free/paid + Malwarebytes free/paid with background scanning off - so as to not interfere with the primary antivirus)
+- Helping others on subjects like tech support, what antivirus should someone choose, gaming, computers, consoles, smartphones, tablets, etc.
 
 I don't like:
 
@@ -140,17 +143,18 @@ I don't like:
 
 *In case you're asking, no, I will not announce Project Hangar or the unnamed project until it's time. I will not do this crap ever again(GRAV0RTAL cancelled, announced again, cancelled again, slow progress, few lies mixed in for taste). This means for Project Hangar that I will likely announce it only a few short months before its release, by then play-testing, media is done, bug fixes are the highest priority, and I'll start being active, releasing info about it.
 
-# Devices I had the opportunity to test out in great detail:
+# Devices I had the opportunity to test out in great detail
 
 Big flex, I know. The list only includes phones and tablets.
 
-- Unannounced Apple product, Sep 2021 announcement (hint hint :) jk I'm testing it a few days after the announcement )
-- Apple iPhone 12, 12 Max
+- Apple iPhone 13, 13 Pro Max (testing out in a few days, not completely on this list)
+
+- iPhone 12, 12 Max
 - iPhone 11
-- iPhone X | XS | XR
+- iPhone X , XS , XR
 - iPhone 8
 - iPhone 7
-- iPhone 6 | 6S
+- iPhone 6 , 6S
 - iPhone 5
 - iPhone 3
 - iPhone
@@ -165,18 +169,18 @@ Big flex, I know. The list only includes phones and tablets.
 - Galaxy S21, S21+, S21 Ultra
 - Galaxy Fold 2 & Flip 2
 - Galaxy Fold & Flip
-- Galaxy Note 20 | 20 Ultra
-- Galaxy S20 | S20 Ultra
+- Galaxy Note 20 , 20 Ultra
+- Galaxy S20 , S20 Ultra
 - Galaxy Note 10 Plus
-- Galaxy S10 | S10 Plus
+- Galaxy S10 , S10 Plus
 - Galaxy S9
 - Galaxy S8
-- Galaxy S7 | S7 Edge
+- Galaxy S7 , S7 Edge
 - Galaxy S6
 - Galaxy Note 5
 - Galaxy S5
 - Galaxy Note 4
-- Galaxy S4 | S4 Mini
+- Galaxy S4 , S4 Mini
 - Galaxy Note 3
 - Galaxy S3
 - Galaxy S (Galaxy S1)
@@ -200,9 +204,9 @@ Big flex, I know. The list only includes phones and tablets.
 - Samsung Galaxy Tab 4 (all models - 7", 8" & 10.1")
 - Samsung Galaxy Tab 3 (only SIM model)
 - Samsung Galaxy Tab 2
-- ZTE Axon 30 | 30 Ultra
+- ZTE Axon 30 , 30 Ultra
 - Serioux S716 Tab
-- Google Pixel 5 | 5A
+- Google Pixel 5 , 5A
 - Google Piel 4 | 4A
 - Google Pixel 3
 - Google Pixel 2
