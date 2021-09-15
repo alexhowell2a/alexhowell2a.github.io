@@ -207,7 +207,7 @@ Big flex, I know. The list only includes phones and tablets.
 - ZTE Axon 30 , 30 Ultra
 - Serioux S716 Tab
 - Google Pixel 5 , 5A
-- Google Piel 4 | 4A
+- Google Piel 4 , 4A
 - Google Pixel 3
 - Google Pixel 2
 - Google Pixel
