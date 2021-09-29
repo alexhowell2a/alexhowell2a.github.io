@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "About Alex Howell."
-last_modified_at: 2021-08-03T10:21:16-04:00
+last_modified_at: 2021-09-29T20:21:09-04:00
 toc: true
 ---
 
