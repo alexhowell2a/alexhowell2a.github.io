@@ -1,9 +1,9 @@
 ---
-title: "Galaxy Unpacked August 2021 - All reveals"
+title: "Galaxy Unpacked August 2021 - All reveals (Updated)"
 header:
   image: /assets/images/samsung/unpackedaug21.png
   caption: "Photo credit: [**Samsung**](https://samsung.com)"
-last_modified_at: 2021-08-11
+last_modified_at: 2021-09-29
 toc: true
 author_profile: true
 categories:
@@ -21,6 +21,9 @@ tags:
   - galaxy-flip
   - galaxy-wear
 ---
+
+**September 29 Update:** Galaxy S21 Fan Edition has been cancelled internally by Samsung and now they're deleting any information about it. It will no longer release.
+{: .notice--warning}
 
 # Galaxy Unpacked 2021 had some expected reveals
 
