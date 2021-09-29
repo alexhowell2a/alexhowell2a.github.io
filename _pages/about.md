@@ -26,8 +26,8 @@ or
 
 Announced/ Named:
 
-- Scalenium (2021-2023ish, 2022 early access, documentation, sample apps and reddit app Kalliope)
-- Kalliope (2021-2023, reddit app for Android, ad-blocking, themes, extra features, uses Scalenium design)
+- Scalenium (2021-2023ish, Q3 2022 early access, documentation, sample apps and reddit app Kalliope)
+- Kalliope (2021-2023, Q4 2022 first releases, reddit app for Android, ad-blocking, themes, extra features, uses Scalenium design)
 
 Unannounced/ Codenames:
 
@@ -36,6 +36,7 @@ Unannounced/ Codenames:
 
 Other:
 
+- Open-source launcher for Unreal Engine (Windows, possible Mac, on hold until 2022)
 - One major mod for Minecraft (Unannounced, TBA, TBD, 2018-current)
 - One major mod for Prison Architect (Unannounced, TBA, TBD, 2019-current)
 
