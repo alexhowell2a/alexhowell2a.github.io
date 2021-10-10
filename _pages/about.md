@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "About Alex Howell."
-last_modified_at: 2021-09-29T20:21:09-04:00
+last_modified_at: 2021-10-10T15:13:43-04:00
 toc: true
 ---
 
@@ -26,8 +26,8 @@ or
 
 Announced/ Named:
 
-- Scalenium (2021-2023ish, Q3 2022 early access, documentation, sample apps and reddit app Kalliope)
-- Kalliope (2021-2023, Q4 2022 first releases, reddit app for Android, ad-blocking, themes, extra features, uses Scalenium design)
+- Scalenium design system (2021-2023ish, Q3 2022 early access, documentation, sample apps and reddit app Kalliope)
+- Kalliope (2021-2023, Q4 2022 first release, reddit app for Android, ad-blocking, themes, extra features, uses Scalenium design system)
 
 Unannounced/ Codenames:
 
@@ -36,19 +36,19 @@ Unannounced/ Codenames:
 
 Other:
 
-- Open-source launcher for Unreal Engine (Windows, possible Mac, on hold until 2022)
-- One major mod for Minecraft (Unannounced, TBA, TBD, 2018-current)
-- One major mod for Prison Architect (Unannounced, TBA, TBD, 2019-current)
+- Open-source launcher for Unreal Engine (Windows, possible Mac, on hold until 2022, uses Scalenium design system)
+- One major mod for Minecraft (Unannounced, TBA, TBD, 2018-current, Java and Bedrock supported)
+- One major mod for Prison Architect (Unannounced, TBA, TBD, 2019-current, pre-Paradox version supported)
 
 Cancelled/ Ceased development/ Abandoned/ On Hold:
 
-- Project C.U.B.E. (2020-mid2021, cancelled, 2.5D, Puzzle, Steam, Android)
-- Frosted Planet (2021-supposed 2022, cancelled, FPS, Semi Open-World, Puzzle, Adventure, Multiplatform PC, PlayStation, XBOX)
-- JumpGame (2019 (or 2018?), abandoned / ceased development, Third person, Semi open-world, Windows)
+- Project C.U.B.E. (2020-mid2021, Unreal Engine 4, cancelled, 2.5D, Puzzle, Steam, Android)
+- Frosted Planet (2021-supposed 2022, Unreal Engine 5, cancelled, FPS, Semi Open-World, Puzzle, Adventure, Multiplatform PC, PlayStation, XBOX)
+- JumpGame (2019 (or 2018?), Unreal Engine 4, abandoned / ceased development, Third person, Semi open-world, Windows)
 - Two mods for Portal 2 - GRAV0RTAL (Source edition) and Portal Stories - New Age
 - One mod for Minecraft (no name)
 - One mod for Scrap Mechanic - Scrap Mechanic Enhanced (not worth the effort, had multiple projects to work on which lead to the cancellation of most of them, could reattempt to do it some day. Do NOT steal my idea, get your own, or think with your brain. Calling it now, it's an On Hold project.)
-- One mod for Minecraft: Bedrock Edition (shader, no name, cancelled)
+- One mod for Minecraft: Bedrock Edition (shader, no name, merged with One major mod for Minecraft)
 
 # Interests
 
@@ -142,14 +142,13 @@ I don't like:
 - This website gets more articles, content and now, this roadmap. Hi there!
 - TheVirus™ Phase 4 (Delta variant) is almost here, woo!
 
-*In case you're asking, no, I will not announce Project Hangar or the unnamed project until it's time. I will not do this crap ever again(GRAV0RTAL cancelled, announced again, cancelled again, slow progress, few lies mixed in for taste). This means for Project Hangar that I will likely announce it only a few short months before its release, by then play-testing, media is done, bug fixes are the highest priority, and I'll start being active, releasing info about it.
+*In case you're asking, no, I will not announce Project Hangar or the unnamed project until it's time. I will not do this crap ever again(GRAV0RTAL cancelled, announced again, cancelled again, slow progress, few lies mixed in for taste). This means for Project Hangar that I will likely announce it only a few short months before its release, by then play-testing, media is done, bug fixes are the highest priority, and I'll start being active, releasing info about it. After announcement, the Steam page will be public.
 
-# Devices I had the opportunity to test out in great detail
+# Devices I tested/used
 
 Big flex, I know. The list only includes phones and tablets.
 
-- Apple iPhone 13, 13 Pro Max (testing out in a few days, not completely on this list)
-
+- Apple iPhone 13 Mini, 13, 13 Pro Max
 - iPhone 12, 12 Max
 - iPhone 11
 - iPhone X , XS , XR
@@ -187,7 +186,11 @@ Big flex, I know. The list only includes phones and tablets.
 - Galaxy S (Galaxy S1)
 - Galaxy A10 (current device, absolute utter horrible shit)
 - Galaxy A10E
+- Galaxy A12
 - Galaxy A20
+- Galaxy A22 (4G)
+- Galaxy A22 5G
+- Galaxy A32
 - Galaxy A52
 - Galaxy A70
 - Galaxy A72
@@ -195,6 +198,8 @@ Big flex, I know. The list only includes phones and tablets.
 - Galaxy J5
 - Galaxy J7
 - Galaxy M10
+- Galaxy M12
+- Galaxy M21
 - Galaxy xCover 2
 - Samsung Galaxy Tab S6
 - Samsung Galay Tab S4
@@ -214,7 +219,7 @@ Big flex, I know. The list only includes phones and tablets.
 - Google Pixel
 - Some old flip-phones from Samsung, Motorola, a symbian touchscreen phone from Samsung (to all of these cannot remember their names at the moment)
 
-# More links about me (Linktree)
+# More links about me
 
 Unless you want to browse this list for the link you want to find, I suggest you go to my [linktr.ee](https://linktr.ee/alextecplayz) link and find whatever you need there.
 
