@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-GB"
 title                    : "alexhowell2a"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : "Alex Howell's personal website" # site tagline that appears below site title in masthead
 name                     : "Alex Howell"
 description              : "Game and software developer, avid C++, JS, HTML & CSS user. This website has all of the crazy stuff I can think of."
