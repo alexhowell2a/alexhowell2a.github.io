@@ -5,6 +5,7 @@ header:
   caption: "Photo credit: [**Samsung**](https://samsung.com)"
 last_modified_at: 2021-09-29
 toc: true
+toc_sticky: true
 author_profile: true
 categories:
   - Samsung
