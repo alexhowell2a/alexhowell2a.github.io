@@ -5,6 +5,7 @@ header:
   caption: "Photo credit: [**Alex Howell**](https://alexhowell2a.github.io)"
 last_modified_at: 2021-10-10
 toc: true
+toc_sticky: true
 author_profile: true
 categories:
   - Samsung
