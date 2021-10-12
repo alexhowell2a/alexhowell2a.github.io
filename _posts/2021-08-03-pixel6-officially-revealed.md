@@ -5,6 +5,7 @@ header:
   caption: "Photo credit: [**Google**](https://store.google.com)"
 last_modified_at: 2021-08-03
 toc: true
+toc_sticky: true
 author_profile: true
 categories:
   - Google
