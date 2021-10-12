@@ -1,7 +1,8 @@
 ---
-title: "List of game companies and game review websites to avoid imo"
+title: "List of companies to avoid, in my opinion"
 last_modified_at: 2021-09-05
 toc: true
+toc_sticky: true
 author_profile: true
 categories:
   - Game companies
@@ -15,9 +16,9 @@ tags:
   - list
 ---
 
-# As of September 2021:
+My own list of any company that you should avoid, that is regularly updated, usually once or twice a year. Most of the companies are game companies, but any other company may get on the list.
 
-(In not any specific order:)
+As of September 2021: (In not any specific order:)
 
 ### Tripwire Interactive LLC - Creators of ManEater, Killing Floor, Killing Floor 2, Rising Storm 2 - Vietnam, Chivarly 2
 
