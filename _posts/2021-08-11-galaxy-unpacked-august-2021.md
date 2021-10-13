@@ -23,8 +23,11 @@ tags:
   - galaxy-wear
 ---
 
-**September 29 Update:** Galaxy S21 Fan Edition has been cancelled internally by Samsung and now they're deleting any information about it. It will no longer release.
+**October 13 Update:** Galaxy S21 Fan Edition has been confirmed by Samsung that it will release on October 20th, and will be unveiled during the **Galaxy Unpacked 2021 Part 2** event.
 {: .notice--warning}
+
+**Previous September 20 Update:** Galaxy S21 Fan Edition has been cancelled internally by Samsung and now they're deleting any information about it. It will no longer release.
+{: .notice}
 
 # Galaxy Unpacked 2021 had some expected reveals
 
@@ -141,5 +144,5 @@ Galaxy Buds 2 - 150 USD
 
 Pre-orders between August 11 and August 26 give you $50 Samsung Store credit
 
-**Warning Notice:** Galaxy S21 Fan Edition has been originally planned to be announced to this edition of Galaxy Unpacked as well, but due to the global chip shortage, it has been delayed until October, or possibly cancelled.
-{: .notice--warning}
+**Previous August Notice:** Galaxy S21 Fan Edition has been originally planned to be announced to this edition of Galaxy Unpacked as well, but due to the global chip shortage, it has been delayed until October, or possibly cancelled.
+{: .notice}
