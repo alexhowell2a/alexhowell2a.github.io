@@ -1,7 +1,7 @@
 ---
 title: "Galaxy Unpacked 2021 - Part 2 Everything Revealed"
 header:
-  image: /assets/images/samsung/unpacked21p2-banner.png
+  image: /assets/images/samsung/unpacked2p2-banner.png
   caption: "Photo credit: [**Samsung**](https://samsung.com/uk/)"
 last_modified_at: 2021-10-20
 toc: true
