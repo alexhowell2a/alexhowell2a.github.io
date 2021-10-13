@@ -23,7 +23,7 @@ tags:
   - galaxy-wear
 ---
 
-**October 13 Update:** Galaxy S21 Fan Edition has been confirmed by Samsung that it will release on October 20th, and will be unveiled during the **Galaxy Unpacked 2021 Part 2** event.
+**October 13 Update:** Galaxy S21 Fan Edition has been confirmed by Samsung that it will release on October 20th, and will be unveiled during the **[Galaxy Unpacked 2021 Part 2](https://alexhowell2a.github.io/samsung/phones/samsung%20galaxy/android/samsung-galaxy-unpacked-2021-part-2/)** event.
 {: .notice--warning}
 
 **Previous September 20 Update:** Galaxy S21 Fan Edition has been cancelled internally by Samsung and now they're deleting any information about it. It will no longer release.
