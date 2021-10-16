@@ -2,7 +2,7 @@
 permalink: /games/project-hangar/
 title: "[Placeholder] Project Hangar"
 excerpt: "Placeholder text with details about Project Hangar"
-layout: default
+layout: splash
 author_profile: false
 header:
   image: /assets/images/web-banner-sep2021.png
