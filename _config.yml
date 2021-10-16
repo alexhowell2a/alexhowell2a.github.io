@@ -20,7 +20,7 @@ title                    : "alexhowell2a"
 title_separator          : "|"
 subtitle                 : "Alex Howell's personal website" # site tagline that appears below site title in masthead
 name                     : "Alex Howell"
-description              : "Game and software developer, avid C++, JS, HTML & CSS user. This website has all of the crazy stuff I can think of."
+description              : "Game and software developer, avid C#, C++, JS, HTML, XAML & CSS user. This website has all of the crazy stuff I can think of."
 url                      : "https://alexhowell2a.github.io" # the base hostname & protocol for your site e.g. "https://alexhowell2a.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
