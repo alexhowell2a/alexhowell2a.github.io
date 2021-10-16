@@ -2,7 +2,7 @@
 
 Alex Howell:
   name        : "Alex Howell"
-  bio         : "Game and software developer, avid C++, JS, HTML & CSS user. This website has all of the crazy stuff I can think of."
+  bio         : "Game and software developer, avid C#, C++, JS, HTML, XAML & CSS user. This website has all of the crazy stuff I can think of."
   avatar      : "/assets/images/bio-photo.png"
   links:
     - label: "Email"
