@@ -24,6 +24,8 @@ tags:
   - macbook
 ---
 
+**Watch the event here:** [YouTube - Apple](https://www.youtube.com/watch?v=exM1uajp--A)
+
 😳 There's nothing here for now, wait until the event begins!
 
 While you're here though, wanna follow me on Twitter? 😏 [@realTECPlayz](https://twitter.com/realTECPlayz)
