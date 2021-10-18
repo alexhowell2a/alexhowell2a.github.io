@@ -32,3 +32,7 @@ tags:
 Siri can now play one of the many more new playlists curated by Apple Music's specialists, for a lot of moods or moments in your day. This function is now available to all Apple Music subscribers.
 
 New Apple Music Voice plan that lets you access everything for just $4.99/month using Siri, starts in 17 regions.
+
+# HomePod mini
+
+New colors: Yellow, Orange, Blue, available November.
