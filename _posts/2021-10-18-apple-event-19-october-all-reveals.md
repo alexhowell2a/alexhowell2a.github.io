@@ -27,6 +27,8 @@ tags:
 **Watch the event here:** [YouTube - Apple](https://www.youtube.com/watch?v=exM1uajp--A)
 {: .notice--warning}
 
-😳 There's nothing here for now, wait until the event begins!
+# Apple Music
 
-While you're here though, wanna follow me on Twitter? 😏 [@realTECPlayz](https://twitter.com/realTECPlayz)
+Siri can now play one of the many more new playlists curated by Apple Music's specialists, for a lot of moods or moments in your day. This function is now available to all Apple Music subscribers.
+
+New Apple Music Voice plan that lets you access everything for just $4.99/month using Siri, starts in 17 regions.
