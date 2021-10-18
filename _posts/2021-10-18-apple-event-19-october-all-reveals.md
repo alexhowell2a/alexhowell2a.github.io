@@ -24,7 +24,7 @@ tags:
   - macbook
 ---
 
-**Watch the event here:** [YouTube - Apple](https://www.youtube.com/watch?v=exM1uajp--A)
+**Watch the event here:** [YouTube - Apple](https://www.youtube.com/watch?v=exM1uajp--A) {: .notice--warning}
 
 😳 There's nothing here for now, wait until the event begins!
 
