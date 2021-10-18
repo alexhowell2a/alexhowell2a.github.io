@@ -6,7 +6,6 @@ header:
 last_modified_at: 2021-10-19
 toc: true
 toc_sticky: true
-search: false
 author_profile: true
 categories:
   - Apple
