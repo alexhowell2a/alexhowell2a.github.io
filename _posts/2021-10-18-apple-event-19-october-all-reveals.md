@@ -24,7 +24,7 @@ tags:
   - macbook
 ---
 
-**Watch the event here:** [YouTube - Apple](https://www.youtube.com/watch?v=exM1uajp--A)
+**Rewatch the event here:** [YouTube - Apple](https://www.youtube.com/watch?v=exM1uajp--A)
 {: .notice--warning}
 
 # Apple Music
