@@ -1,8 +1,8 @@
 ---
-title: "Apple Event 18 October - Everything Revealed"
+title: "Apple's 'Unleashed' Event 18 October - Everything Revealed"
 header:
   image: /assets/images/apple/aapl-18-oct-21.png
-  caption: "Photo credit: [**Samsung**](https://samsung.com/uk/)"
+  caption: "Photo credit: [**Apple**](https://apple.com/)"
 last_modified_at: 2021-10-19
 toc: true
 toc_sticky: true
