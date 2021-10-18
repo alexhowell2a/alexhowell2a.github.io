@@ -1,5 +1,5 @@
 ---
-title: "Apple Event 19 October - Everything Revealed"
+title: "Apple Event 18 October - Everything Revealed"
 header:
   image: /assets/images/apple/aapl-18-oct-21.png
   caption: "Photo credit: [**Samsung**](https://samsung.com/uk/)"
