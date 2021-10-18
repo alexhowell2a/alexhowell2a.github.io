@@ -36,3 +36,15 @@ New Apple Music Voice plan that lets you access everything for just $4.99/month 
 # HomePod mini
 
 New colors: Yellow, Orange, Blue, available November.
+
+# AirPods Pro, Max get Dolby Spatial Audio
+
+# AirPods 3rd generation
+
+Includes Dolby Spacial Audio, Audio EQ
+
+6 hours of music playtime, up to 30hrs total listening time
+
+MagSafe added to the case.
+
+$179, available next week.
