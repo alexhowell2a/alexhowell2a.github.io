@@ -48,3 +48,11 @@ Includes Dolby Spacial Audio, Audio EQ
 MagSafe added to the case.
 
 $179, available next week.
+
+# Mac
+
+### MacBook Pro
+
+**M1 PRO** chipset, up to 70% better performance than M1. Up to 2x faster graphics performance than M1.
+
+**M1 MAX** chipset, higher bandwidth, up to 400GB/s memory bandwidth. Largest chip Apple has ever built. Up to 4X faster GPU performance than M1.
