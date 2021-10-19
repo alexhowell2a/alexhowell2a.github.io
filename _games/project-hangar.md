@@ -52,6 +52,7 @@ Placeholder feature table.
 *These tables will get shortened and/or hidden behind a tab or a button since not everyone cares about all of this. Crucial information will be shown, along with the Minimum and Recommended specifications.
 
 | Components | Minimum Specifications | Recommended Specifications |
+| ------ | ------ | ------ |
 | CPU | TBD | TBD, i7-2600, i7-7700k recommended |
 | RAM | TBD | 8GB, possible 16GB |
 | GPU | TBD | NVIDIA GeForce GTX 1650, NVIDIA GeForce RTX 2080 (if you want to play using RTX ) |
