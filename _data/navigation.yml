@@ -10,3 +10,85 @@ main:
   #   url: /sitemap/
   - title: "Search"
     url: /search/
+#sidebar-sample links
+sidebar-sample:
+  - title: "Parent Page A"
+    children:
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A2"
+        url: /
+      - title: "Child Page A3"
+        url: /
+      - title: "Child Page A4"
+        url: /
+  - title: "Parent Page B"
+    children:
+      - title: "Child Page B1"
+        url: /
+      - title: "Child Page B2"
+        url: /
+      - title: "Child Page B3"
+        url: /
+      - title: "Child Page B4"
+        url: /
+      - title: "Child Page B5"
+        url: /
+  - title: "Parent Page C"
+    children:
+      - title: "Child Page C1"
+        url: /
+      - title: "Child Page C2"
+        url: /
+      - title: "Child Page C3"
+        url: /
+      - title: "Child Page C4"
+        url: /
+      - title: "Child Page C5"
+        url: /
+  - title: "Parent Page D"
+    children:
+      - title: "Child Page D1"
+        url: /
+      - title: "Child Page D2"
+        url: /
+ #scalenium-sidebar content/links
+ scalenium-sidebar:
+  - title: "Main"
+    children:
+      - title: "Home Link"
+        url: /scalenium/home.md
+  - title: "Main Links"
+    children:
+      - title: "Getting Started"
+        url: /
+      - title: "Templates"
+        url: /scalenium/templates/home.md
+      - title: "Gallery"
+        url: /scalenium/gallery/home.md
+      - title: "Documentation"
+        url: /scalenium/docs/home.md
+      - title: "Platforms"
+        url: /scalenium/platforms/home.md
+      - title: "Roadmap"
+        url: /scalenium/roadmap.md
+  - title: "Design Principles"
+    children:
+      - title: "Design Guidelines"
+        url: /scalenium/design-guidelines.md
+      - title: "Dark Mode"
+        url: /scalenium/dark-mode.md
+      - title: "Shapes"
+        url: /scalenium/shapes.md
+      - title: "Colours"
+        url: /scalenium/colors.md
+      - title: "Customization"
+        url: /scalenium/customization.md
+  - title: "Miscellaneous"
+    children:
+      - title: "FAQ"
+        url: /scalenium/FAQ.md
+      - title: "GitHUB"
+        url: "https://github.com/alexhowell2a/scalenium"
+      - title: "Back to main website"
+        url: /
