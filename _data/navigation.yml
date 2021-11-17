@@ -88,7 +88,7 @@ sidebar-sample:
     children:
       - title: "FAQ"
         url: /scalenium/FAQ.md
-      - title: "GitHUB"
+      - title: "Github"
         url: "https://github.com/alexhowell2a/scalenium"
       - title: "Back to main website"
         url: /
