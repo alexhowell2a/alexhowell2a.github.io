@@ -32,4 +32,4 @@ Moving forward, I will use Material You for all my apps. This includes Kalliope 
 
 
 
-In other news, Project Hangar is very much in active development, and doesn't look like it's going to be canncelled any time soon. It is still on track to release in 2024.
+In other news, Project Hangar is very much in active development, and doesn't look like it's going to be cancelled any time soon. It is still on track to release in 2024.
