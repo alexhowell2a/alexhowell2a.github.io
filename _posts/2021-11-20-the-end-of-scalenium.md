@@ -17,7 +17,7 @@ tags:
   - cancelled-projects
 ---
 
-**Note on Scalenium** Scalenium has been cencelled, and is therefore deprecated. Moving forward, I will use Material You.
+**Note on Scalenium** Scalenium has been cancelled, and is therefore deprecated. Moving forward, I will use Material You.
 {: .notice--warning}
 
 # The End of Scalenium
