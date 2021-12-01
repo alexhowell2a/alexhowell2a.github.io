@@ -26,7 +26,7 @@ or
 
 Announced/ Named:
 
-- Scalenium design system (2021-2023ish, Q3 2022 early access, documentation, sample apps and reddit app Kalliope)
+- 
 - Kalliope (2021-2023, Q4 2022 first release, reddit app for Android, ad-blocking, themes, extra features, uses Scalenium design system)
 
 Unannounced/ Codenames:
@@ -42,6 +42,7 @@ Other:
 
 Cancelled/ Ceased development/ Abandoned/ On Hold:
 
+- Scalenium design system (2021-2023, cancelled)
 - Project C.U.B.E. (2020-mid2021, Unreal Engine 4, cancelled, 2.5D, Puzzle, Steam, Android)
 - Frosted Planet (2021-supposed 2022, Unreal Engine 5, cancelled, FPS, Semi Open-World, Puzzle, Adventure, Multiplatform PC, PlayStation, XBOX)
 - JumpGame (2019 (or 2018?), Unreal Engine 4, abandoned / ceased development, Third person, Semi open-world, Windows)
