@@ -16,17 +16,12 @@ I am trying to be as formal and professional as possible here, but emotions (ang
 
 # Aspirations
 
-- Future lab doctor somewhere in Copenhagen.
-
-or
-
-- Big game developer at my own studio along with a long-time friend and co-game developer.
+- Game developer at my own studio along with a long-time friend and co-game developer.
 
 # Current projects
 
 Announced/ Named:
 
-- 
 - Kalliope (2021-2023, Q4 2022 first release, reddit app for Android, ad-blocking, themes, extra features, uses Scalenium design system)
 
 Unannounced/ Codenames:
