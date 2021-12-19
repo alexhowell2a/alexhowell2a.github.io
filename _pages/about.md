@@ -1,8 +1,8 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "About Alex Howell."
-last_modified_at: 2021-10-10T15:13:43-04:00
+excerpt: "About me"
+last_modified_at: 2021-12-19T22:20:08-04:00
 toc: true
 ---
 
