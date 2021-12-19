@@ -152,9 +152,9 @@ I don't like:
 
 *In case you're asking, no, I will not announce Project Hangar or the unnamed project until it's time. I will not do this crap ever again (GRAV0RTAL cancelled, announced again, cancelled again, slow progress, few lies mixed in for taste). This means for Project Hangar that I will likely announce it only a few short months before its release, by then play-testing, media is done, bug fixes are the highest priority, and I'll start being active, releasing info about it. After announcement, the Steam page will be public.
 
-# Devices I tested/used
+# Devices I tested and used
 
-Big flex, I know. The list only includes phones and tablets.
+The list only includes phones and tablets.
 
 - Apple iPhone 13 Mini, 13, 13 Pro Max
 - iPhone 12, 12 Max
