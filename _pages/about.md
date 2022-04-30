@@ -24,7 +24,7 @@ I am trying to be as formal and professional as possible here, but emotions (ang
 
 Announced/ Named:
 
-- Kalliope (2021-2023, Q4 2022 or Q2 2023 first release, reddit app (client) for Android, ad-blocking, themes, extra features, uses ~~Scalenium design system~~ Material You design system)
+-NONE-
 
 Unannounced/ Codenames:
 
@@ -39,6 +39,7 @@ Other:
 
 Cancelled/ Abandoned/ On Hold:
 
+- Kalliope (2021-2023, Q4 2022 or Q2 2023 first release, reddit app (client) for Android, ad-blocking, themes, extra features, uses ~~Scalenium design system~~ Material You design system) (ON HOLD indefinitely, possible cancellation)
 - Open-source launcher for Unreal Engine (Windows, possible Mac, on hold until 2022 with possible cancellation, ~~uses Scalenium design system~~)
 - Scalenium design system (2021-2023, cancelled)
 - Project C.U.B.E. (2020-mid2021, Unreal Engine 4, cancelled, 2.5D, Puzzle, Steam, Android)
