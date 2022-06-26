@@ -28,9 +28,10 @@ Announced/ Named:
 
 Unannounced / Codenames:
 
-- Project Hangar (late 2018-2025ish, Unreal Engine 5 (former UE4), FPS, Action, Steam only)
-- Project Mountain (2019-2030ish, Unreal Engine 5 (former UE4), FPS, Action, Open-World, Single-player + 2-4 player Co-Op, multiplatform PC, PlayStation, XBOX)
-- Projects BARBET and MOREL, with multiple subprojects for MOREL. More details sometime in the future, likely late 2022.
+- Project Panopticon (2023, PC, Mobile, possible Console release later on)
+- Project Mountain (2019-2030ish,PC, Console)
+- Project BARBET (2022-?)
+- Project MOREL, with multiple subprojects for MOREL. (2022-?)
 
 Other:
 
@@ -42,14 +43,15 @@ Other:
 
 Cancelled / Abandoned / On Hold:
 
-- Kalliope (2021-2023, Q4 2022 or Q2 2023 first release, reddit app (client) for Android, ad-blocking, themes, extra features, uses ~~Scalenium design system~~ Material You design system) (ON HOLD indefinitely, possible cancellation)
-- Open-source launcher for Unreal Engine (cancelled)
-- Project C.U.B.E. (2020-mid 2021, Unreal Engine 4, cancelled, 2.5D, Puzzle, Steam, Android)
-- Frosted Planet (2021-supposed 2022, Unreal Engine 5, cancelled, FPS, Semi Open-World, Puzzle, Adventure, Multiplatform PC, PlayStation, XBOX)
-- JumpGame (2019 (or 2018?), Unreal Engine 4, abandoned / ceased development, Third person, Semi open-world, Windows)
+- Project Hangar (late 2018-2025ish, Steam only) [On hold, possible cancellation]
+- Kalliope for reddit [Cancelled, use Sync for reddit as an alternative]
+- Open-source launcher for Unreal Engine [Cancelled]
+- Project C.U.B.E. (2020-mid 2021,Steam, Android) [Cancelled]
+- Frosted Planet (2021-supposed 2022, PC, Console) [Cancelled]
+- JumpGame (2019 (or 2018?), Unreal Engine 4, Third person, Semi open-world, Windows) [Abandoned]
 - Two mods for Portal 2 - GRAV0RTAL (Source edition) and Portal Stories - New Age (both cancelled)
-- One mod for Minecraft (no name, cancelled)
-- One mod for Minecraft: Bedrock Edition (shader, no name, cancelled due to Renderdragon being introduced, and it's currently closed-source, therefore shaders can't be developed for it)
+- One mod for Minecraft (no name) [Cancelled]
+- One mod for Minecraft: Bedrock Edition (shader, no name) [Cancelled due to Renderdragon's addition to the game, which is CLOSED SOURCE]
 
 # Interests
 
@@ -57,21 +59,19 @@ I like:
 
 - Computers
 - Tech
-- Mobile phones, tablets, laptops
-- Games/Gaming
+- Gaming
 - Programming
 - Conceptualizing
 - Listening to music, most notably on YT Music
-- Piracy (I condone piracy in certain cases, don't @ me, also not an active pirate anymore)
-- Birds (especially cockatiels - nyphus hollandicus -, pigeons, seagulls and crows)
+- Piracy (I condone piracy in certain cases)
+- Birds (especially cockatiels, pigeons and crows)
 - Software
 - Art
 - Architecture
 - Medicine (mostly interested in studying the human brain)
 - Logic
 - Psychology
-- Chatting
-- Browsing Twitter, Instagram, Discord, YouTube, reddit
+- Browsing social media
 - Space, Astronomy, Galaxies, Planets, etc.
 - Food
 - Music
@@ -80,11 +80,10 @@ I don't like:
 
 - Insects
 - Spicy food
-- Bad companies/corporations/studios/etc.
-- Facebook, TikTok (Sadly I'm pretty forced to use both IG and WhatsApp for family and friend-related discussions, I use reddit, Signal, Discord, Revolt and Element for the rest of my convos)
-- Bullshit theories like the Earth is flat, COVID-19 is a hoax, COVID vaccine is bad/made to depopulate (who the heck thinks about these things and thinks "Yeah, that's a believable theory!")
-- Religion (If you believe in religion, power to you, but don't try to indoctrinate me with that stuff, nor should you try to invite me to religion-related things)
-- Old or unfunny memes (most notably most boomer FB memes)
+- Anti-consumer, for-profit-only corporations
+- Meta, Google, the NSA, Tencent, the CCP, Russia
+- Bullshit conspiracy theories
+- Religion (I'm fine as long as no one forces it)
 
 # More links about me
 
@@ -96,13 +95,13 @@ Steam - [alextecplayz](https://steamcommunity.com/id/tecplayz/) (very active)
 
 Instagram - [@_tecplayz_](https://www.instagram.com/_tecplayz_/) (barely active)
 
-Twitter - [@realTECPlayz](https://twitter.com/realTECPlayz) (Inactive since Elon Musk bought the platform)
+Twitter - [@realTECPlayz](https://twitter.com/realTECPlayz) (Very active)
 
-reddit - [u/TECPlayz2-0](https://www.reddit.com/user/TECPlayz2-0) (pretty active)
+reddit - [u/TECPlayz2-0](https://www.reddit.com/user/TECPlayz2-0) (Inactive, still browse it for a few minutes daily)
 
-Twitch (Main account) - [realalextecplayz](https://www.twitch.tv/realalextecplayz) (inactive)
+Twitch (Main account) - [realalextecplayz](https://www.twitch.tv/realalextecplayz) (Inactive)
 
-Twitch (Second, backup account) - [alextecplayz](https://www.twitch.tv/alextecplayz) (inactive)
+Twitch (Backup account) - [alextecplayz](https://www.twitch.tv/alextecplayz) (Inactive)
 
 YouTube - [AlexTECPlayz](https://www.youtube.com/channel/UCFdMdHheGGXgb58SX6jyvPQ) (no regular or fixed schedule, I prefer quality over quantity, and I try to improve my videos' quality)
 
@@ -112,10 +111,8 @@ BandCamp - [DJTEC](https://djtec.bandcamp.com/releases) (inactive)
 
 **Note** You must attribute the songs from my Bandcamp. Otherwise, look out for a copyright claim on your YT video or on other platforms. I am not afraid to defend my content.
 
-SoundCloud - [DJTEC](https://soundcloud.com/djtec-496891120) (inactive)
-
 The 0R8 Wiki - [github](https://github.com/alexhowell2a/0R8-Wiki/wiki) (temporarily inactive until further content is added to the game, will update with the newest 0R8 Testing Grounds V0.1 content someday)
 
 The 0R8 Wiki - [Fandom](https://0r8.fandom.com/wiki/0R8_Wiki)
 
-**Gumroad** - [alextecplayz](https://alextecplayz.gumroad.com) (inactive, buy stuff I made if you want, they're nice)
+**Gumroad** - [alextecplayz](https://alextecplayz.gumroad.com) (inactive, buy stuff if you want, they're nice)
